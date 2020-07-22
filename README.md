@@ -1,2 +1,0 @@
-# goalsserver
-Begin app
